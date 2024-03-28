@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 Trying to make the web better
-- 🌱 Interested in development, testing and new technologies
+- 🌱 Interested in Web development, testing and new technologies
 - ⚡ Ask me, I'll be happy to help
 ---
 
