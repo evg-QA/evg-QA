@@ -19,10 +19,10 @@
 #### Quality Assurance:
 
 <div>
-  <img height="50" width="40" src="https://cdn.simpleicons.org/postman/#FF6C37" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg " title="Pytest"  alt="Pytest" width="50" height="50"/>&nbsp;
   <img height="50" width="40" src="https://cdn.simpleicons.org/selenium/#43B02A" />
+  <img height="50" width="40" src="https://cdn.simpleicons.org/postman/#FF6C37" />
   <img height="50" width="40" src="https://cdn.simpleicons.org/androidstudio/#3DDC84" />
 </div>
 
